@@ -17,11 +17,18 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Dipped into CSS box model, as well as class 5 of #100Devs @leonnoel
  homework included.
 
- **Thoughts**: "“There is scarcely any passion without struggle.”" - Albert Camus
+ **Thoughts**: “There is scarcely any passion without struggle." - Albert Camus
 
 
  ### R1D3: June 03
 
  **Today's Progress**: Completed the first practice problem from shayhowe.com - Building Your First Web Page.
 
- **Thoughts**: "“Only those who will risk going too far can possibly find out how far one can go.”" - T. S. Eliot
+ **Thoughts**: “Only those who will risk going too far can possibly find out how far one can go.” - T. S. Eliot
+
+
+ ### R1D4: June 04
+
+ **Today's Progress**: Plowed through the third and fourth lessons from. http://shayhowe.com - Building Your First Web Page
+
+ **Thoughts**: “Continuous effort - not strength or intelligence - is the key to unlocking our potential.” - Winston S. Churchill
