@@ -32,3 +32,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
  **Today's Progress**: Plowed through the third and fourth lessons from. http://shayhowe.com - Building Your First Web Page
 
  **Thoughts**: “Continuous effort - not strength or intelligence - is the key to unlocking our potential.” - Winston S. Churchill
+
+
+ ### R1D5: June 05
+
+ **Today's Progress**: Successfully finished 1 of 2 homework due for class #06 #100Devs
+
+ **Thoughts**: "In the realm of ideas everything depends on enthusiasm... in the real world all rests on perseverance." -Goethe
