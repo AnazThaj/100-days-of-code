@@ -40,8 +40,15 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Thoughts**: "In the realm of ideas everything depends on enthusiasm... in the real world all rests on perseverance." -Goethe
 
 
-### R1D6: June 05
+### R1D6: June 06
 
 **Today's Progress**: CSS positioning: float, relative, and absolute with the practice problem completed. It was a bit challenging as a first timer.
 
 **Thoughts**: "Being challenged in life is inevitable, being defeated is optional" -Roger Crawford
+
+
+### R1D7: June 07
+
+**Today's Progress**: Completed 1 of 4 part CSS Foundations lessons from The Odin Project
+
+**Thoughts**: “Tell me and I forget, teach me and I may remember, involve me and I learn.” ―Benjamin Franklin
