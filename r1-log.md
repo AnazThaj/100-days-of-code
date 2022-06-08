@@ -52,3 +52,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Completed 1 of 4 part CSS Foundations lessons from The Odin Project
 
 **Thoughts**: “Tell me and I forget, teach me and I may remember, involve me and I learn.” ―Benjamin Franklin
+
+### R1D8: June 08
+
+**Today's Progress**: Completed the #CSS Foundations lessons from @TheOdinProject
+ + homework for #100Devs class #6
+
+**Thoughts**: “Achievement is not for the select few, it's for those who never quit.” ―Colin O'Brady https://www.youtube.com/watch?v=vo_lZiytsMw
