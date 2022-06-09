@@ -59,3 +59,9 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
  + homework for #100Devs class #6
 
 **Thoughts**: “Achievement is not for the select few, it's for those who never quit.” ―Colin O'Brady https://www.youtube.com/watch?v=vo_lZiytsMw
+
+### R1D9: June 09
+
+**Today's Progress**: HTML & CSS Review + Overview of Responsive Web Design.
+
+**Thoughts**: "You owe you" -Eric Thomas
