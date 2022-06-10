@@ -65,3 +65,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: HTML & CSS Review + Overview of Responsive Web Design.
 
 **Thoughts**: "You owe you" -Eric Thomas
+
+
+### R1D10: June 10
+
+**Today's Progress**: Finished with Responsive Web Design | Pushing through #100Devs class #7.
+
+**Thoughts**: “Don't let what you cannot do interfere with what you CAN do.” ―John Wooden
