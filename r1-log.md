@@ -72,3 +72,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Finished with Responsive Web Design | Pushing through #100Devs class #7.
 
 **Thoughts**: “Don't let what you cannot do interfere with what you CAN do.” ―John Wooden
+
+
+### R1D11: June 11
+
+**Today's Progress**: Completed the homework as well as the 6th lesson, typography, from shayhowe.com.
+
+**Thoughts**: “Do something today that your future self will thank you for" -Anonymous
