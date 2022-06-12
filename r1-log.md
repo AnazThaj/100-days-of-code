@@ -79,3 +79,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Completed the homework as well as the 6th lesson, typography, from shayhowe.com.
 
 **Thoughts**: “Do something today that your future self will thank you for" -Anonymous
+
+
+### R1D12: June 12
+
+**Today's Progress**: Built two page layouts with HTML and CSS using floats deliberately.
+
+**Thoughts**: “The poem in the head is always perfect. Resistance begins when you try to convert it into language." -Stanley Kunitz
