@@ -86,3 +86,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Built two page layouts with HTML and CSS using floats deliberately.
 
 **Thoughts**: “The poem in the head is always perfect. Resistance begins when you try to convert it into language." -Stanley Kunitz
+
+
+### R1D13: June 13
+
+**Today's Progress**: Built the final layout out of three from the previous day using #HTML and #CSS.
+
+**Thoughts**: “A slow day is better than a no show." -Anonymous
