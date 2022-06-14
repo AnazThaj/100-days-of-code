@@ -93,3 +93,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Built the final layout out of three from the previous day using #HTML and #CSS.
 
 **Thoughts**: “A slow day is better than a no show." -Anonymous
+
+
+### R1D14: June 14
+
+**Today's Progress**: Reviewed the 3 previously built #HTML and #CSS layouts and noted some areas for improvements. Additionally went through 5 new challenging layouts which need to be built only with floats.
+
+**Thoughts**: "We go get!!" -Leon Noel
