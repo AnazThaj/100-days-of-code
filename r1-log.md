@@ -107,3 +107,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Productivity < 10%. Worked on the 4th layout - "Level Ground Wireframe", but was able to do only the header part and only partially at that. Today has been bit of a hectic day since I had to help one of in-laws admitted to hospital for dengue treatment + #PowerCutLK + #FuelCrisisLK as I had to pump petrol for my vehicle but the petrol station ran out of petrol before I could get after waiting for a few hours in the queue. Hoping for a better tomorrow.
 
 **Thoughts**: "What doesn't kill you, only makes you stronger" -Friedrich Nietzsche
+
+
+### R1D16: June 16
+
+**Today's Progress**: A day of review. Reviewed the #100Devs lessons from #1 - #10.
+
+**Thoughts**: “Study the past if you would define the future.”― Confucius
