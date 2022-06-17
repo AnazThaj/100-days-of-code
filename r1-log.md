@@ -113,4 +113,11 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 
 **Today's Progress**: A day of review. Reviewed the #100Devs lessons from #1 - #10.
 
-**Thoughts**: “Study the past if you would define the future.”― Confucius
+**Thoughts**: “Study the past if you would define the future.” ―Confucius
+
+
+### R1D17: June 17
+
+**Today's Progress**: Box model exercise from class #11 #100Devs.
+
+**Thoughts**: “It's not about perfect. It's about effort.” ―Jillian Micheals
