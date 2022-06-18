@@ -121,3 +121,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Box model exercise from class #11 #100Devs.
 
 **Thoughts**: “It's not about perfect. It's about effort.” ―Jillian Micheals
+
+
+### R1D18: June 18
+
+**Today's Progress**: Waited in the fuel queue for almost 16 hours, but came back did an hour of practicing coding on EM vs REM.
+
+**Thoughts**: “It always seems impossible until it’s done.” -Nelson Mandela
