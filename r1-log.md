@@ -128,3 +128,9 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Waited in the fuel queue for almost 16 hours, but came back did an hour of practicing coding on EM vs REM.
 
 **Thoughts**: “It always seems impossible until it’s done.” -Nelson Mandela
+
+### R1D19: June 19
+
+**Today's Progress**: Finished class #11 of #100Devs. Practiced lesson #7 - setting backgrounds & gradients from shayhowe.com
+
+**Thoughts**: "Knowing is not enough; we must apply. Willing is not enough; we must do." -Johann Wolfgang von Goethe
