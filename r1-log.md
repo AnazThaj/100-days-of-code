@@ -134,3 +134,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Finished class #11 of #100Devs. Practiced lesson #7 - setting backgrounds & gradients from shayhowe.com
 
 **Thoughts**: "Knowing is not enough; we must apply. Willing is not enough; we must do." -Johann Wolfgang von Goethe
+
+
+### R1D20: June 20
+
+**Today's Progress**: Today has been a more productive day than most of the previous days. Finished two more lessons from shayhowe.com.
+
+**Thoughts**: "Keep your eyes on the stars, and your feet on the ground." -Theodore Roosevelt
