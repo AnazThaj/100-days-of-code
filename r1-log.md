@@ -141,3 +141,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Today has been a more productive day than most of the previous days. Finished two more lessons from shayhowe.com.
 
 **Thoughts**: "Keep your eyes on the stars, and your feet on the ground." -Theodore Roosevelt
+
+
+### R1D21: June 21
+
+**Today's Progress**: Finally completed all 11 +(1) lessons from ShayHowe.com "Learn to Code HTML & CSS" online book by building a complete website. Structure (HTML) and the style (CSS).
+
+**Thoughts**: "You are never too old to set another goal or to dream a new dream." -C. S. Lewis
