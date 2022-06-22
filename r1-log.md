@@ -148,3 +148,11 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Finally completed all 11 +(1) lessons from ShayHowe.com "Learn to Code HTML & CSS" online book by building a complete website. Structure (HTML) and the style (CSS).
 
 **Thoughts**: "You are never too old to set another goal or to dream a new dream." -C. S. Lewis
+
+
+
+### R1D22: June 22
+
+**Today's Progress**: Started on flex, did some practice with a couple of layouts. Hoping to build a complete landing page tomorrow.
+
+**Thoughts**: "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing." -Thomas Jefferson
