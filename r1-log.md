@@ -156,3 +156,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Started on flex, did some practice with a couple of layouts. Hoping to build a complete landing page tomorrow.
 
 **Thoughts**: "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing." -Thomas Jefferson
+
+
+### R1D22: June 22
+
+**Today's Progress**: Completed the four lessons on flex from The Odin Project. Will dive into more practices and finish the project at the end of the module by tomorrow.
+
+**Thoughts**: "With the new day comes new strength and new thoughts." -Eleanor Roosevelt
