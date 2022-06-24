@@ -158,8 +158,15 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Thoughts**: "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing." -Thomas Jefferson
 
 
-### R1D22: June 22
+### R1D23: June 23
 
 **Today's Progress**: Completed the four lessons on flex from The Odin Project. Will dive into more practices and finish the project at the end of the module by tomorrow.
 
 **Thoughts**: "With the new day comes new strength and new thoughts." -Eleanor Roosevelt
+
+
+### R1D24: June 24
+
+**Today's Progress**: Just wow. Completed a code along layout using CSS Flexbox with Traversy and was really amazed how flexible a flexbox can be...
+
+**Thoughts**: “Life is like riding a bicycle. To keep your balance, you must keep moving.” —Albert Einstein
