@@ -177,3 +177,9 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Completed the Flexbox section from The Odin Project, started on the project, did a skeletal layout of the design.
 
 **Thoughts**: “Whether you think you can or think you can’t you’re right.” —Henry Ford
+
+### R1D26: June 26
+
+**Today's Progress**: Finished the second project from The Odin Project - Flexbox: Landing page and pushed it to github. It was overall pretty great day. Watched the 12th #100Devs class. #DominosPizza all the way lol.
+
+**Thoughts**: “Without the element of fun, it’s not worth trying to excel at anything.” ―Magnus Carlsen
