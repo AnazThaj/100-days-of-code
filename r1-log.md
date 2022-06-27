@@ -183,3 +183,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Finished the second project from The Odin Project - Flexbox: Landing page and pushed it to github. It was overall pretty great day. Watched the 12th #100Devs class. #DominosPizza all the way lol.
 
 **Thoughts**: “Without the element of fun, it’s not worth trying to excel at anything.” ―Magnus Carlsen
+
+
+### R1D27: June 27
+
+**Today's Progress**: Today has been a little day off for me in terms of my total time spent on learning. However, I was able to finish one of the homeworks layout for #100Devs class 12. It took me nearly an hour and a half to finish. A little more than I expected but better than what it usually used to take.
+
+**Thoughts**: If you want something you’ve never had, you have to do something that you’ve never done." –Unknown
