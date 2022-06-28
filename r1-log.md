@@ -189,4 +189,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 
 **Today's Progress**: Today has been a little day off for me in terms of my total time spent on learning. However, I was able to finish one of the homeworks layout for #100Devs class 12. It took me nearly an hour and a half to finish. A little more than I expected but better than what it usually used to take.
 
-**Thoughts**: If you want something you’ve never had, you have to do something that you’ve never done." –Unknown
+**Thoughts**: "If you want something you’ve never had, you have to do something that you’ve never done." –Unknown
+
+### R1D28: June 28
+
+**Today's Progress**: Completed homework for class #12. All 7 layouts in a day!
+
+**Thoughts**: "Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability." -John Wooden
