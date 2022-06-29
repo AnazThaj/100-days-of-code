@@ -196,3 +196,14 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Completed homework for class #12. All 7 layouts in a day!
 
 **Thoughts**: "Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability." -John Wooden
+
+
+### R1D29: June 29
+
+**Today's Progress**: A couple of things I finished today.
+1. Finished the homework exercise for #100Devs class #13.
+2. Went through Traversy Media JS crash course
+3. Dived into JS variables, functions, data types, and DOM from javascript.info
+4. Halfway into class #13 of #100Devs
+
+**Thoughts**: "The price of anything is the amount of life you exchange for it." -Henry David Thoreau
