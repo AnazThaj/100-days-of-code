@@ -207,3 +207,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 4. Halfway into class #13 of #100Devs
 
 **Thoughts**: "The price of anything is the amount of life you exchange for it." -Henry David Thoreau
+
+
+### R1D30: June 30
+
+**Today's Progress**: Finished class #13 of #100Devs and went through the reading materials. Got started on a JS project to be completed before the next class.
+
+**Thoughts**: "However difficult life may seem, there is always something can do and succeed at." -Stephen Hawking
