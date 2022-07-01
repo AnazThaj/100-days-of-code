@@ -214,3 +214,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Finished class #13 of #100Devs and went through the reading materials. Got started on a JS project to be completed before the next class.
 
 **Thoughts**: "However difficult life may seem, there is always something can do and succeed at." -Stephen Hawking
+
+
+### R1D31: July 01
+
+**Today's Progress**: Covered a few programming topics in JS such as, functions, arrow functions, string manipulation and a little bit on loops. Built the preliminary layout for my project. It's called, "Imagine a Holiday".
+
+**Thoughts**: “Things which matter most must never be at the mercy of things which matter least.” –Goethe
