@@ -221,3 +221,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Covered a few programming topics in JS such as, functions, arrow functions, string manipulation and a little bit on loops. Built the preliminary layout for my project. It's called, "Imagine a Holiday".
 
 **Thoughts**: “Things which matter most must never be at the mercy of things which matter least.” –Goethe
+
+
+### R1D32: July 02
+
+**Today's Progress**: Added CSS properties and style to the personal project layout structure. Additionally, got some practice on JS call stack, thread, and execution context.
+
+**Thoughts**: "The unexamined life is not worth living." -Socrates
