@@ -228,3 +228,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Added CSS properties and style to the personal project layout structure. Additionally, got some practice on JS call stack, thread, and execution context.
 
 **Thoughts**: "The unexamined life is not worth living." -Socrates
+
+
+### R1D33: July 03
+
+**Today's Progress**: Added initial JS event listners for the program as well as some CSS styles. The project is shaping up to be pretty good. Finished the 5th lesson of JS fundamentals from The Odin Project.
+
+**Thoughts**: "The most important thing in life is to stop saying 'I wish' and start saying 'I will.' Consider nothing impossible, then treat possibilities as probabilities." -Charles Dickens 
