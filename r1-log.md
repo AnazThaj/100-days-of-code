@@ -234,4 +234,11 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 
 **Today's Progress**: Added initial JS event listners for the program as well as some CSS styles. The project is shaping up to be pretty good. Finished the 5th lesson of JS fundamentals from The Odin Project.
 
-**Thoughts**: "The most important thing in life is to stop saying 'I wish' and start saying 'I will.' Consider nothing impossible, then treat possibilities as probabilities." -Charles Dickens 
+**Thoughts**: "The most important thing in life is to stop saying 'I wish' and start saying 'I will.' Consider nothing impossible, then treat possibilities as probabilities." -Charles Dickens
+
+
+### R1D34: July 04
+
+**Today's Progress**: Completed the JS Fundamentals project, Rock-Paper-Scissors, from The Odin Project. Right now, it's in a very rudimentary phase, where it outputs the results via console.log and gets the user input via prompt. Much work to be put in going forward.
+
+**Thoughts**: “Getting to the top should be a priority, but being aware of the reason for getting there should be the focus.” –Anonymous
