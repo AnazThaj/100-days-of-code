@@ -249,3 +249,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Finished classes #14 & #15 of #100Devs along with the code along exercises and homework. Man, class #15, How to do freelancing!! One of the most valuable classes I've ever sit through in my life.
 
 **Thoughts**: “You never know how strong you are until being strong is the only choice you have” -Bob Marley
+
+
+### R1D36: July 06
+
+**Today's Progress**: JS practice - functions, conditionals, loops, and DOM.
+
+**Thoughts**: "Without pain, without sacrifice, we would have nothing." - Fight Club
