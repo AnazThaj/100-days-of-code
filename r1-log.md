@@ -242,3 +242,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Completed the JS Fundamentals project, Rock-Paper-Scissors, from The Odin Project. Right now, it's in a very rudimentary phase, where it outputs the results via console.log and gets the user input via prompt. Much work to be put in going forward.
 
 **Thoughts**: “Getting to the top should be a priority, but being aware of the reason for getting there should be the focus.” –Anonymous
+
+
+### R1D35: July 05
+
+**Today's Progress**: Finished classes #14 & #15 of #100Devs along with the code along exercises and homework. Man, class #15, How to do freelancing!! One of the most valuable classes I've ever sit through in my life.
+
+**Thoughts**: “You never know how strong you are until being strong is the only choice you have” -Bob Marley
