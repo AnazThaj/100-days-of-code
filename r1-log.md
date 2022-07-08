@@ -263,3 +263,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: JS review and #100Devs class #16 homework.
 
 **Thoughts**: "If you think you'll lose, you're lost" -Walter D Wintle (Thinking)
+
+
+### R1D38: July 08
+
+**Today's Progress**: Practice! practice! and some more practice. Mainly JS loops. Some reflection and rumination about how effective is my #100DaysOfCode journey.
+
+**Thoughts**: "Don't count the days, make the days count." -Muhammad Ali
