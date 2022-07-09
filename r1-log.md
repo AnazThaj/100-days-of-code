@@ -270,3 +270,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Practice! practice! and some more practice. Mainly JS loops. Some reflection and rumination about how effective is my #100DaysOfCode journey.
 
 **Thoughts**: "Don't count the days, make the days count." -Muhammad Ali
+
+
+### R1D39: July 09
+
+**Today's Progress**: Had some fun with JS loops from [The JavaScript Way](https://github.com/thejsway/thejsway). Completed all the practice problems. Tomorrow, moving on to functions and update my personal project.
+
+**Thoughts**: “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” –Aristotle
