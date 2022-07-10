@@ -277,3 +277,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Had some fun with JS loops from [The JavaScript Way](https://github.com/thejsway/thejsway). Completed all the practice problems. Tomorrow, moving on to functions and update my personal project.
 
 **Thoughts**: “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” –Aristotle
+
+
+### R1D40: July 10
+
+**Today's Progress**: Done and dusted JS functions (Well, at least the basic concepts). Currently going through "Eloquent JS" for homework. It's a very engaging book. I particularly like the quotes that are mentioned in it.
+
+**Thoughts**: “Do not let what you cannot do interfere with what you can do.” –John Wooden
