@@ -291,3 +291,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Went over some theory with practice. JS closure, and recursion seemed a bit difficult to wrap my head around, closure seemed to click after a while. However, recursion still seems to be a bit elusive to grasp.
 
 **Thoughts**: "Slow progress is still progress" -Anonymous
+
+
+### R1D42: July 12
+
+**Today's Progress**: MORE RECURSION!!!!
+
+**Thoughts**: "To understand recursion, one must first understand recursion." -Anonymous
