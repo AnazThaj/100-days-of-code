@@ -298,3 +298,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: MORE RECURSION!!!!
 
 **Thoughts**: "To understand recursion, one must first understand recursion." -Anonymous
+
+
+### R1D43: July 14
+
+**Today's Progress**: More practice on functions. Got back to coding after a day of break.
+
+**Thoughts**: "Breaks are important!" -Anonymous
