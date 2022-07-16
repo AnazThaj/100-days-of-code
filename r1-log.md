@@ -305,3 +305,17 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: More practice on functions. Got back to coding after a day of break.
 
 **Thoughts**: "Breaks are important!" -Anonymous
+
+
+### R1D44: July 15
+
+**Today's Progress**: Kinda stuck on functions. I was planning on moving on to the next topic, however I feel like I need to practice functions a little bit more to get a solid foundational understanding.
+
+**Thoughts**: "Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it." -Muhammad Ali
+
+
+### R1D45: July 16
+
+**Today's Progress**: Did a review on the things I've so far. Getting ready for the next #100Devs class which is, SUPER REVIEW.
+
+**Thoughts**: “Do first things first, and second things not at all.” –Peter Drucker
