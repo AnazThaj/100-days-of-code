@@ -319,3 +319,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Did a review on the things I've so far. Getting ready for the next #100Devs class which is, SUPER REVIEW.
 
 **Thoughts**: “Do first things first, and second things not at all.” –Peter Drucker
+
+
+### R1D46: July 17
+
+**Today's Progress**: Went back to some exercises on recursion. Difference between console.log inside the function vs function call tripped me up a bit. Finally got the hang of it.
+
+**Thoughts**: “You have not failed as long as you keep on trying" -Anonymous
