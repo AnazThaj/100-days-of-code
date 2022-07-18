@@ -326,3 +326,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Went back to some exercises on recursion. Difference between console.log inside the function vs function call tripped me up a bit. Finally got the hang of it.
 
 **Thoughts**: “You have not failed as long as you keep on trying" -Anonymous
+
+
+### R1D47: July 18
+
+**Today's Progress**: Today's been a tad more productive than yesterday. Managed to put in 2+ hours into coding. I feel like I'm stuck on the first stage, I so want to move to the next level. Wish me luck!
+
+**Thoughts**: "Sometimes, it will take 10 years to get to that ONE year that will change your year." -(from a motivational video)
