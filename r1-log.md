@@ -333,3 +333,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Today's been a tad more productive than yesterday. Managed to put in 2+ hours into coding. I feel like I'm stuck on the first stage, I so want to move to the next level. Wish me luck!
 
 **Thoughts**: "Sometimes, it will take 10 years to get to that ONE year that will change your life." -(from a motivational video)
+
+
+### R1D48: July 19
+
+**Today's Progress**: Finished Codecademy JS lessons 1-5. 1 more to go for #100Devs homework, however, I want to watch the next lesson of #100Devs before the 6th.
+
+**Thoughts**: "You gotta keep raising the bar" -Anonymous
