@@ -340,3 +340,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Finished Codecademy JS lessons 1-5. 1 more to go for #100Devs homework, however, I want to watch the next lesson of #100Devs before the 6th.
 
 **Thoughts**: "You gotta keep raising the bar" -Anonymous
+
+
+### R1D49: July 20
+
+**Today's Progress**: Started on #100Devs Super-Review. Felt good to be back in the class, since it's been a while I watched the last lesson. I feel like I should be doing more self projects rather than spending more time learning just for the sake of completing the task.
+
+**Thoughts**: "Believe in yourself that you will succeed" -Anonymous
