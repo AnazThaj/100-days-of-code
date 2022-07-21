@@ -347,3 +347,9 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Started on #100Devs Super-Review. Felt good to be back in the class, since it's been a while I watched the last lesson. I feel like I should be doing more self projects rather than spending more time learning just for the sake of completing the task.
 
 **Thoughts**: "Believe in yourself that you will succeed" -Anonymous
+
+### R1D50: July 21
+
+**Today's Progress**: HALF WAY!!! This calls for celebration! I tried finishing my personal project, Imagine a Holiday, in terms of functionality(JS), 90% is done. In terms of styling(CSS), well, that needs to some work.
+
+**Thoughts**: "You must put your best effort, when you are least motivated" -David Goggins
