@@ -353,3 +353,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: HALF WAY!!! This calls for celebration! I tried finishing my personal project, Imagine a Holiday, in terms of functionality(JS), 90% is done. In terms of styling(CSS), well, that needs to some work.
 
 **Thoughts**: "You must put your best effort, when you are least motivated" -David Goggins
+
+
+### R1D51: July 22
+
+**Today's Progress**: Progressing through #100Devs. From tomorrow onwards... CODEWARS!!!
+
+**Thoughts**: "They succeed, because they think they can.” –Virgil
