@@ -360,3 +360,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Progressing through #100Devs. From tomorrow onwards... CODEWARS!!!
 
 **Thoughts**: "They succeed, because they think they can.” –Virgil
+
+
+### R1D52: July 23
+
+**Today's Progress**: Started on arrays and feel like a whole new world has opened up. Had to spend a little time on understanding concat() method when an object is being added to an array. However, finally got it.
+
+**Thoughts**: "Where do you start? Right here. When do you start? Right now" -Anonymous
