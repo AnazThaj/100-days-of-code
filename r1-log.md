@@ -367,3 +367,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Started on arrays and feel like a whole new world has opened up. Had to spend a little time on understanding concat() method when an object is being added to an array. However, finally got it.
 
 **Thoughts**: "Where do you start? Right here. When do you start? Right now" -Anonymous
+
+
+### R1D53: July 24
+
+**Today's Progress**: Went through some of the add/remove, iterate, search, and transform array methods.
+
+**Thoughts**: "You can't expect great growth in your comfort zone" -Anonymous
