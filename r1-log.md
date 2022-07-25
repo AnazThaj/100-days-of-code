@@ -374,3 +374,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Went through some of the add/remove, iterate, search, and transform array methods.
 
 **Thoughts**: "You can't expect great growth in your comfort zone" -Anonymous
+
+
+### R1D54: July 25
+
+**Today's Progress**: Have been working array methods since yesterday and today it was sort(). It tripped me a up a bit when it came to sorting the array containing integers, until I figured how this method actually works.
+
+**Thoughts**: "If you're looking only at problems you will find more, if you're focusing on possibilities you will see opportunities" -Anonymous
