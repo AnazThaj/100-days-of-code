@@ -381,3 +381,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Have been working array methods since yesterday and today it was sort(). It tripped me a up a bit when it came to sorting the array containing integers, until I figured how this method actually works.
 
 **Thoughts**: "If you're looking only at problems you will find more, if you're focusing on possibilities you will see opportunities" -Anonymous
+
+
+### R1D55: July 26
+
+**Today's Progress**: Practice a bunch of array related questions, feeling more confident in tackling CODEWARS! Also, I can't wait to apply what I have learnt about array so far to my projects.
+
+**Thoughts**: "It's a lot more than mind over matter. It takes relentless self-discipline to schedule suffering into your day, every day." -David Goggins
