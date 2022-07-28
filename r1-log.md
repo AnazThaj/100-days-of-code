@@ -392,6 +392,12 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 
 ### R1D56: July 27
 
+**Today's Progress**: found out when you modify an array while looping it with forEach or OF, the index doesn't get reset. 2 HOURS!! Worth it tbh.
+
+**Thoughts**: "Time and tide wait for none" -Proverb
+
+### R1D57: July 28
+
 **Today's Progress**: I had to slow down a bit today since I could sense the burnout in the horizon. Anyway, javascript.info and eloquentjavascript.net have some killer practice problems though.
 
 **Thoughts**: "Take a rest if you must, but don't you dare giving up" -Anonymous
