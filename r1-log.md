@@ -388,3 +388,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Practice a bunch of array related questions, feeling more confident in tackling CODEWARS! Also, I can't wait to apply what I have learnt about array so far to my projects.
 
 **Thoughts**: "It's a lot more than mind over matter. It takes relentless self-discipline to schedule suffering into your day, every day." -David Goggins
+
+
+### R1D56: July 27
+
+**Today's Progress**: I had to slow down a bit today since I could sense the burnout in the horizon. Anyway, javascript.info and eloquentjavascript.net have some killer practice problems though.
+
+**Thoughts**: "Take a rest if you must, but don't you dare giving up" -Anonymous
