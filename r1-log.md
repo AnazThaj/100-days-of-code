@@ -408,3 +408,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Had a relaxing day. Visited my parents. Got back to coding after 6 in the evening.
 
 **Thoughts**: "The path to success is paved with failures" -Anonymous
+
+
+### R1D59: July 30
+
+**Today's Progress**: Working on computing correlation using phi function for data structure practice with arrays and objects.
+
+**Thoughts**: "As long as you are breathing, you have the potential to change your life around" -Anonymous
