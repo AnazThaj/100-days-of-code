@@ -415,3 +415,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Working on computing correlation using phi function for data structure practice with arrays and objects.
 
 **Thoughts**: "As long as you are breathing, you have the potential to change your life around" -Anonymous
+
+
+### R1D60: July 31
+
+**Today's Progress**: Today has been an interesting day. I coded for little more than an hour. Each month since June I've been starting a new challenge. This time, from August, I'm starting yet another challenge. #100DaysOfWriting.
+
+**Thoughts**: "Writing is thinking" -Anonymous
