@@ -422,3 +422,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Today has been an interesting day. I coded for little more than an hour. Each month since June I've been starting a new challenge. This time, from August, I'm starting yet another challenge. #100DaysOfWriting.
 
 **Thoughts**: "Writing is thinking" -Anonymous
+
+
+### R1D61: August 01
+
+**Today's Progress**: Another beautiful day of coding. Practicing arrays and objects. I can see that I underestimated the time I need to spend with this topic.
+
+**Thoughts**: "Life is going to change you no matter what. You can either react to it, or participate in it." -Anonymous
