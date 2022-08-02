@@ -429,3 +429,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Another beautiful day of coding. Practicing arrays and objects. I can see that I underestimated the time I need to spend with this topic.
 
 **Thoughts**: "Life is going to change you no matter what. You can either react to it, or participate in it." -Anonymous
+
+
+### R1D62: August 02
+
+**Today's Progress**: Practicing and getting stuck on arrays. However, not planning giving up any time soon. Did some DSA, it was fun.
+
+**Thoughts**: "The ticket to victory often comes down to bringing your very best when you feel your worst." -David Goggins
