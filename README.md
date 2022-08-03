@@ -440,3 +440,9 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Practicing and getting stuck on arrays. However, not planning giving up any time soon. Did some DSA, it was fun.
 
 **Thoughts**: "The ticket to victory often comes down to bringing your very best when you feel your worst." -David Goggins
+
+### R1D63: August 03
+
+**Today's Progress**: Had one of the best days with JS. Hearing it directly from Leon that arrays take time for some folks actually motivated and encouraged me. Thank you and the #100Devs community.
+
+**Thoughts**: "Build the habit of being comfortable with uncomfortable." -Anonymous
