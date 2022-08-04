@@ -442,3 +442,9 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Had one of the best days with JS. Hearing it directly from Leon that arrays take time for some folks actually motivated and encouraged me. Thank you and the #100Devs community.
 
 **Thoughts**: "Build the habit of being comfortable with uncomfortable." -Anonymous
+
+### R1D64: August 04
+
+**Today's Progress**: #100Devs class #21 - Objects. Finally the pieces are falling into places.
+
+**Thoughts**: "To get something you never had, you have to do things you never did" -Anonymous
