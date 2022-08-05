@@ -453,3 +453,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: #100Devs class #21 - Objects. Finally the pieces are falling into places.
 
 **Thoughts**: "To get something you never had, you have to do things you never did" -Anonymous
+
+
+### R1D65: August 05
+
+**Today's Progress**: More practice on object. Going strong with #100Devs #catchupcrew
+
+**Thoughts**: “Do or do not. There is no try.” – Yoda
