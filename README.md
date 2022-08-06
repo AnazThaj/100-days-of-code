@@ -460,3 +460,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: More practice on object. Going strong with #100Devs #catchupcrew
 
 **Thoughts**: “Do or do not. There is no try.” – Yoda
+
+
+### R1D66: August 06
+
+**Today's Progress**: Object reference. Not proud of my productivity today.
+
+**Thoughts**: “You are knocked down, but not knocked out." -Anonymous
