@@ -474,3 +474,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Object reference - cloning and merging objects. Had a severe migraine from morning to 7/8PM night. Pushed myself to be infront of the machine as I don't want to take another day off.
 
 **Thoughts**: “Keep climbing" -Anonymous
+
+
+### R1D68/R1D69/R1D70: August 10
+
+**Today's Progress**: Almost finished with objects.
+
+**Thoughts**: “There's no failure as long as you keep going" -Anonymous
