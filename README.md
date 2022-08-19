@@ -481,3 +481,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Almost finished with objects.
 
 **Thoughts**: “There's no failure as long as you keep going" -Anonymous
+
+
+### R1D71-79: August 11 - 19
+
+**Today's Progress**: Bulk update. Finished objects and did JS30 array cardio, that was quite challenging.
+
+**Thoughts**: “Time does not get lost, but your chances" -Anonymous
