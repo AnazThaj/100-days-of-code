@@ -480,3 +480,9 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: Bulk update. Finished objects and did JS30 array cardio, that was quite challenging.
 
 **Thoughts**: “Time does not get lost, but your chances" -Anonymous
+
+### R1D80: August 20
+
+**Today's Progress**: #100Devs class-22. Did all the code along materials. Went through them again.
+
+**Thoughts**: "If you can look up, you can get up" -Anonymous
