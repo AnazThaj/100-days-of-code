@@ -495,3 +495,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: #100Devs class-22. Did all the code along materials. Went through them again.
 
 **Thoughts**: "If you can look up, you can get up" -Anonymous
+
+
+### R1D81: August 21
+
+**Today's Progress**: #100Devs Class 22 coding practices, and Anki. I could not do codingwars.
+
+**Thoughts**: "You can't know everything, but you should convince yourself that you can know anything" -John Carmack
