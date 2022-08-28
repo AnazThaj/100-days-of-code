@@ -502,3 +502,10 @@ The log of my #100DaysOfCode challenge. Started on [June 01, Wednesday, 2022].
 **Today's Progress**: #100Devs Class 22 coding practices, and Anki. I could not do codingwars.
 
 **Thoughts**: "You can't know everything, but you should convince yourself that you can know anything" -John Carmack
+
+
+### R1D82/R1D83: August 22/23
+
+**Today's Progress**: JS30 Array Cardio 1 - second round + Git fundamentals #100Devs
+
+**Thoughts**: "Patience when you're at the bottom, humility when you're at the top" -Anonymous
